@@ -1,0 +1,212 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration to all the world of our faith, and what we believe who are called Quakers. And this is written, that all people upon Earth may know by whom, and how we are saved, and hopes for eternal life; and what we believe concerning God, Christ and the spirit, and of the things that are eternal, appertaining to all man-kind to know and believe.  Also what ministers and magistrates we own, and what, and whom we deny.</title>
+            <author>Burrough, Edward, 1634-1662.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08596</idno>
+            <idno type="OCLC"> 124064113</idno>
+            <idno type="STC">Wing B5997A</idno>
+            <idno type="STC">ESTC R173333</idno>
+            <idno type="EEBO-CITATION">124064113</idno>
+            <idno type="OCLC">ocn 124064113</idno>
+            <idno type="VID">192218</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08596)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192218)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2905:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration to all the world of our faith, and what we believe who are called Quakers. And this is written, that all people upon Earth may know by whom, and how we are saved, and hopes for eternal life; and what we believe concerning God, Christ and the spirit, and of the things that are eternal, appertaining to all man-kind to know and believe.  Also what ministers and magistrates we own, and what, and whom we deny.</title>
+                  <author>Burrough, Edward, 1634-1662.</author>
+                  <author>Parker, Alexander, 1628-1689.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Wilson.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>P. 9 signed E.B. [i.e. Edward Burrough]; p. 12 signed A.P. [i.e. Alexander Parker].</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Swarthmore College Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Doctrines --  Early works to 1800.</term>
+               <term>Society of Friends --  Apologetic works --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="modern_bookplate">
+            <pb facs="tcp:192218:1" rendition="simple:additions"/>
+            <p>
+               <add>
+                  <figure>
+                     <figDesc>modern bookplate with illustration of Swarthmore Hall</figDesc>
+                     <head>FRIENDS HISTORI<g ref="char:EOLhyphen"/>CAL LIBRARY SWARTHMORE COLLEGE PENNSYLVANIA</head>
+                     <head>Swarthmore Hall</head>
+                     <q>FOR WHATSOEVER THINGS WERE WRITTEN AFORETIME WERE WRITTEN FOR OUR LEARNING</q>
+                  </figure>
+               </add>
+            </p>
+            <pb facs="tcp:192218:1"/>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:192218:2"/>
+            <pb facs="tcp:192218:2" rendition="simple:additions"/>
+            <p>A DECLARATION TO ALL THE WORLD OF Our Faith, And what we Believe who are called QUAKERS.</p>
+            <p>AND This is written, that all People upon Earth may know by whom, and how we are Sa<g ref="char:EOLhyphen"/>ved, and hope for Eternal Life; And what we Believe concerning God, Chriſt and the Spirit, and of the things that are Eternal, appertaining to all Man-kind to know and Believe.</p>
+            <p>Alſo, what MINISTERS and MAGISTRATES we own, and what, and whom we deny.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Robert Wilſon.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:192218:3" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:192218:3"/>
+            <head>Concerning God, Chriſt and the Spirit, thus we Believe.</head>
+            <p>FIrſt, That there is only one true God who is a Spirit, and his Preſence filleth Heaven and Earth, and he is Eternal and Everlaſting, the Creator and Preſerver of all things, that Hea<g ref="char:EOLhyphen"/>ven and Earth, and all things therein by Him were framed and brought forth, and all things remain unto this day by his Power, and whatſoever he willeth in Heaven and Earth, he brings to paſs by his Word &amp; Power. And we Believe that this God only is, &amp; ought to be Feared, Loved, Obeyed, &amp; Worſhip<g ref="char:EOLhyphen"/>ed by all Creatures, and no other thing beſides him in Heaven and Earth; And we Believe that his Worſhip and Obedience, and Fear, and Love, is to be given in Spirit, even in what his own Spirit moveth and leadeth his people unto. And we Believe his true Worſhip required and accepted of him is, not by the Tradition of men in outward obſervances, or ſet daies or places, but he is Worſhiped only in Spirit and Truth, without reſpect of time, places or things, and that none can Worſhip him in Righteouſneſs, but his Children who are Born of his Spirit, and are led and guided thereby. And we Believe that this God hath given his Son Jeſus Chriſt into the world, a free gift unto the whole world, and that every man that cometh into the world is lighted by Him, that <hi>every man may believe and be ſaved;</hi> And we Believe that he is given into the world, &amp; no Nation, Country, or people excepted, but to all mankind he is given of God, and hath lightned them; and every man through the world, that believeth in, and receiveth Chriſt, <hi>who is the wiſ<g ref="char:EOLhyphen"/>dom and Power of the Father,</hi> ſhall be ſaved with Eternal Salva<g ref="char:EOLhyphen"/>tion; <hi>And every one that believeth not in him, ſhall be damned, and ſhall poſſeſs everlasting miſery.</hi> And we Believe that <hi>Salvati<g ref="char:EOLhyphen"/>on, Justification</hi> and <hi>Sanctification,</hi> is only in Him, wrought by Him and no other; for there is no other Name given under Heaven but him alone, by which Salvation is; and we Believe all that receive Him, and believe in Him, are reconciled to God, and are made alive to God, to live to him in all things, and do receive the forgiveneſs of Sins, and are ſet free from all unrighteouſneſs, and from the body of ſin and death, and have the Witneſs of the Spirit in them, and the Spirit of the
+<pb n="4" facs="tcp:192218:4"/>
+Father they have received, and it witneſſeth in them of the Father and of the Son, and of the things that belong to their Peace; and it is the earneſt of the Inheritance, and the Seal of the Promiſe of Eternal Life, and by it are the deep things of God revealed to mankind, and by it the Father and the Son dwell in the Saints, and by it they have fellowſhip one with another, and the Father, Son and Spirit are one; And this we faithfully Believe.</p>
+            <p>Again concerning Chriſt, we believe that he is one with the Father, and was with him before the world was, and what the Father worketh it is by his Son, for he is the Arm of Gods Salvation, and the very power and wiſdom of the Creator, and was, is, and is to come without beginning or end. And we be<g ref="char:EOLhyphen"/>lieve that all the Prophets gave teſtimony of Him, and that he was made manifeſt in <hi>Judea</hi> and <hi>Jeruſalem,</hi> and did the work of the Father, and was Perſecuted of the Jews, and was Cruci<g ref="char:EOLhyphen"/>fied by his Enemies, <hi>and that he was buried, and roſe again ac<g ref="char:EOLhyphen"/>cording to the Scriptures.</hi> And we believe he is now aſcended on high, and exalted at the right hand of the Father for ever<g ref="char:EOLhyphen"/>more; And that he is glorifyed with the ſame glory that He had before the World was; <hi>and that even the ſame that came down from Heaven, iſ aſcended up to Heaven; and the ſame that deſcended, is he that aſcended.</hi>
+            </p>
+            <p>And we believe, <hi>Even he that was dead, is alive, and lives for evermore, and that he cometh, and ſhall come again to Judge the whole world with Righteouſneſs, and all people with equity, and ſhall give to every man according to his deeds at the day of Judge<g ref="char:EOLhyphen"/>ment, when all ſhall ariſe to Condemnation or Justification he that hath done good, ſhall receive life, and he that hath done evil, ever<g ref="char:EOLhyphen"/>lasting condemnation.</hi>
+            </p>
+            <p>And we believe he is to be waited for in Spirit, to be known after the ſpirit, as he was before the world was, and that is the knowledge unto eternal Life, which all that believe in Him doth receive, and he ſubdues death, and deſtroyes him that hath the power of it, and reſtoreth from Death to Life, and quickneth by his Spirit all that the Father hath given Him, and we believe ſuch he juſtifieth and ſanctifieth, and ſuch are taught of him, but he condemns all that believe not, and con<g ref="char:EOLhyphen"/>tinue in unbelief, and are not taught of him; And this we faithfully Believe.</p>
+            <p>
+               <pb n="5" facs="tcp:192218:4"/>And we believe that unto all people upon the face of the whole earth, is a time and day of viſitation given, that they may return and be ſaved by Jeſus Chriſt, who is given of the Father to call the worſt of men to repentance, and the moſt ungodly of ſinners are convinced by Him of their ungodly deeds, <hi>that they might believe, and be converted and ſaved.</hi> And we believe herein is the love of God manifeſted to all mankind, <hi>and that none is ſhut out by him before they were born into the world;</hi> But unto all men is a viſitation given, and they that do periſh, it is becauſe they do not believe in Chriſt, and deſtruction is of a mans ſelf, but ſalvation is of God, through believing in his Son who takes away ſin, and reneweth into his own Image, that they may become heirs with him; And we believe that there is a Crown of Eternal Glory, and an Inheritance of Eternal Life to be enjoyed for evermore, by all that believe and are choſen of God; And that there is an everlaſting miſery and deſtruction to be poſſeſſed by all that believe not, but conti<g ref="char:EOLhyphen"/>nue in the ſtate of Reprobation, and are not changed from the ways of ſin and death, but walk after the ways of their own hearts luſts, fulfilling the will of the fleſh in the evil of this world, and follow not Chriſt the Light of the World that they may be ſaved; and we believe upon all ſuch the Wrath of God abideth, and that they have no part in the Inheritance of God. And we believe that it is only he that is born again of the Spi<g ref="char:EOLhyphen"/>rit, and that walks after the Spirit who is changed from <hi>death to life,</hi> and who is redeemed out of the world and all its wayes, ſuch only muſt inherit the kingdom of God, and they only have right thereunto and none beſides, even they that are waſhed and cleanſed from all unrighteouſneſs by the Blood of Jeſus, by which their ſins are Remitted; for his Blood cleanſeth them from all unrighteouſneſs and ſin, all ſuch as walk and abide in the Light which Chriſt Jeſus hath lightned the world withal. And we believe that the Saints upon earth, may re<g ref="char:EOLhyphen"/>ceive forgiveneſs of ſins, and may be perfectly freed from the body of ſin and death, and in Chriſt may be perfected and without ſin, and may have victory over all temptations by Faith in Chriſt Jeſus. And we believe every Saint that is cal<g ref="char:EOLhyphen"/>led of God, ought to preſs after perfection, and to overcome the Devil and all his temptations upon Earth; and we believe
+<pb n="6" facs="tcp:192218:5"/>
+they that faithfully wait for it ſhall obtain it, and ſhall be pre<g ref="char:EOLhyphen"/>ſented without ſin in the Image of the Father, and ſuch walk not after the fleſh, but after the Spirit, and are in Covenant with God, and their ſins are blotted out and remembred no more, for they ceaſe to commit ſin being born of the Seed of God; And we believe the Goſpel of Chriſt <hi>is the Power of God unto Salvation,</hi> and that it ought to be Preached <hi>freely unto all people,</hi> and Chriſt to be held forth to all Man-kind by the Mi<g ref="char:EOLhyphen"/>niſtry ſent of him. And we believe this Miniſtry is received by the gift of the Holy Ghoſt, and all they that receive it, are lawfully called to the Miniſtry, and they may Preach the Goſ<g ref="char:EOLhyphen"/>pel of Chriſt freely, as they have received it freely; and this Miniſtry is not of man but of God, and is made powerful to the converting of ſinners, and to the bringing of people to God, and to the knowledge of his waies. And we do not be<g ref="char:EOLhyphen"/>lieve that any man is a Miniſter of Chriſt, without the gift of the Holy Ghoſt, or that the Goſpel can be received by natural learning or education. And we believe ſuch as preach for hire, and have hire for preaching, are not the lawful called Mini<g ref="char:EOLhyphen"/>ſters of the Goſpel of Chriſt; ſuch as are proud and high-mind<g ref="char:EOLhyphen"/>ed, and covetous men, who do not profit the people at all, ſuch as have run, but never were ſent of Chriſt, who calleth by his Spirit into the work of the Miniſtrie; and as every one hath received the gift of that his Spirit, ſo he may adminiſter to others.</p>
+            <p>Concerning <hi>Rulers</hi> and <hi>Governours,</hi> we believe that there ought to be <hi>Rulers</hi> and <hi>Governors</hi> in every <hi>Nation, City, Coun<g ref="char:EOLhyphen"/>try</hi> or <hi>Town,</hi> and they ought to be ſuch men as fear God, and hateth every evil way, <hi>who will judge for God, and not for man;</hi> and will judge righteouſly, equally and juſtly, and will give true and ſound judgment unto all men, without bribery, or reſpect of perſons, not regarding the rich above the poor, but being a praiſe unto all that do well, and a terrour to all evil doers whatſoever, having knowledg in the pure Law of God, and themſelves continually exerciſed therein. And we believe that every Law of man, ought to be grounded upon the Law of God, pure reaſon and equity being the foundation thereof, that God's witneſs in every man may anſwer to it; and the Law ought to be known unto all people, before tranſgreſſion be char<g ref="char:EOLhyphen"/>ged
+<pb n="7" facs="tcp:192218:5"/>
+or puniſhed in any man. And we believe that every tranſ<g ref="char:EOLhyphen"/>greſſion ought to be puniſhed according to its nature, and that the puniſhment exceed not the greatneſs of the Tranſgreſſion, neither ought any Tranſgreſſor to eſcape unpuniſhed, neither ought any upon falſe ſuſpition or jealouſie, to be cauſed to ſuf<g ref="char:EOLhyphen"/>fer without the Teſtimony of true men, or the confeſſion of the party. And we believe that the Executors of the Law ought to be juſt men, and not given to Pride, Drunkenneſs, or any other evil whatſoever. And we believe that all Gover<g ref="char:EOLhyphen"/>nours and Rulers ought to be accountable to the people, and to the next ſucceeding Rulers, for all their actions which may be enquired into upon occaſion, and that the chiefeſt of the Rulers be ſubject under the Law, and puniſhable by it if they be Tranſgreſſors, as well as the pooreſt of the people. And thus true Judgment and Juſtice will be brought forth in the earth, and all that do well will have praiſe, and live in reſt and peace, and all evil doers whatſoever, may ſtand in awe and be afraid of God, and juſt Men, and the Execution of good Laws.</p>
+            <p>
+               <hi>Concerning Religion; We believe that it is only the Spirit of the Lord that makes men truly Religious, and that no man ought to be compelled to, or from any exerciſe or practice in Religion, by any out<g ref="char:EOLhyphen"/>ward Law or Power, but every man ought to be left free, as the Lord ſhall perſwade his own mind in doing or leaving undone, this or the other practiſe in Religion, and every man of what profeſſion in Reli<g ref="char:EOLhyphen"/>gion ſoever, ought to be protected in peace, provided himſelf be a man of peace, not ſeeking the wrong of any mans perſon or eſtate.</hi>
+            </p>
+            <p>
+               <hi>And we believe that to reprove falſe Opinions, and unſound Do<g ref="char:EOLhyphen"/>ctrines and Principles, ſeeking to convince them that oppoſe them<g ref="char:EOLhyphen"/>ſelves by exhortation or ſharp reproof, by word or writing, ought not to be counted a breach of the Peace, and to ſtrive about the things of the Kingdom of God, by men of contrary minds or judgments, this ought not to be puniſhable by the Magiſtrates and their Laws; for we believe that the outward law and powers of the earth, is only to preſerve mens perſons and estates, and not to preſerve men in Opi<g ref="char:EOLhyphen"/>nions; neither ought the law of the Nation to be laid upon mens Conſciences to bind them to, or from ſuch a judgment or practiſe in Religion. And we believe that Christ is, and ought onely to be the Lord and Exerciſer of mens Conſciences, and his Spirit only muſt lead into all Truth.</hi>
+            </p>
+            <p>
+               <pb n="8" facs="tcp:192218:6"/>
+               <hi>And we believe that obedience and ſubjection in the Lord, belongs to Superiors, and that Subjects ought to obey them in the Lord that have rule over them, and that Children ought to obey their Parents, and Wives their Husbands, and Servants their Masters in all things which is according to God, which ſtands in the exerciſe of a pure con<g ref="char:EOLhyphen"/>ſcience towards God; but where Rulers, Parents, or Masters, or any other commandeth or requireth ſubjection in any thing which is con<g ref="char:EOLhyphen"/>trary to God, or not according to him, in ſuch cauſes all people are free<g ref="char:punc">▪</g> and ought to obey God rather than man; and we believe that herein God will juſtify them, being guided and led by his Spirit in all that which is good, and out of all that which is evil.</hi>
+            </p>
+            <p>Again, we believe concerning <hi>Election</hi> and <hi>Reprobation,</hi> that there is a ſtate of <hi>Election,</hi> and ſtate of <hi>Reprobation,</hi> a ſtate choſen of God, and a ſtate rejected of God, and that all mankind are in one of theſe ſtates; all that are Elected, are Elected in Chriſt; and all that are out of him, are in the ſtate Re<g ref="char:EOLhyphen"/>probate, bringing forth fruits of death and darkneſs, being children of wrath and diſobedience, in the alienation and ſe<g ref="char:EOLhyphen"/>paration from God in the tranſgreſſion, unreconciled to God, the enmity ruling in the heart being in the fall, and not re<g ref="char:EOLhyphen"/>ſtored to God again, but ignorant of his Power, and of his Wiſdom, <hi>having the underſtanding darkned, that they cannot ſee nor perceive the things that are Eternal:</hi> and in this condition his beſt works are ſin, and whatſoever he doth, he cannot be accepted with God, for he is dead to God and alive to all e<g ref="char:EOLhyphen"/>vil, bringing forth all his works out of that ground which is curſed. This is the condition of all mankind upon the face of the earth in the firſt <hi>Adam;</hi> and this is the ſtate of Repro<g ref="char:EOLhyphen"/>bation, and all that abide herein are rejected of God, and ſhall never inherit Eternal Life, but goe into perdition; yet have all ſuch a day of viſitation, that they may turn out of the ſtate of <hi>Reprobation;</hi> but hating knowledge, and deſpiſing the Love of <hi>God,</hi> they continue in the ſtate <hi>Reprobate, and the wrath of God abides upon them;</hi> but they that are choſen of God, are delivered from wrath, for they believe in the Light, and be<g ref="char:EOLhyphen"/>come children of the Light, and are renewed in mind and heart, and receive the Love of the Father, and become planted into Chriſt the ſecond <hi>Adam,</hi> and are choſen in him to bring forth fruit unto the Father, and all their Fruit ſpring<g ref="char:EOLunhyphen"/>eth
+<pb n="9" facs="tcp:192218:6" rendition="simple:additions"/>
+from that ground which is bleſſed; for they are led by the Spirit of the Father, and ſuch are in the ſtate of Election, who are made heirs with Chriſt of the everlaſting Inheritance that never fades away. And this we faithfully believe, that Mer<g ref="char:EOLhyphen"/>cy is not ſhewed to the Reprobate, nor Judgment to them that are choſen of God.</p>
+            <p>
+               <hi>And this to go abroad into the world, that all people may under<g ref="char:EOLhyphen"/>ſtand what we Believe, and what we have received of God; and they that believe this, and walk therein by the Spirit of the Fa<g ref="char:EOLhyphen"/>ther, ſhall be ſaved; but they that believe not, but are diſobedient to the Truth ſhall be condemned, becauſe they do not believe. Much more might be written, but in ſhort this is given forth by one that hath Believed, and received the knowledge of theſe things from God, a friend unto all people.</hi>
+            </p>
+            <closer>
+               <signed>E. B.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <head>To all that ſay we (whom the World do in ſcorn call <hi>Quakers</hi>) do deny Miniſters and Magiſtrates; Theſe things I write unto you, to give you in ſhort an underſtanding what Miniſters and Magiſtrates we own, and what, and whom we deny.</head>
+            <p>FIrſt, Such Miniſters as are made by God, who are Sancti<g ref="char:EOLhyphen"/>fied by his Word and Power, who have freely received perfect gifts from God, and ſo by the Spirit and Power of God are ſent forth into the world to turn the people from dark<g ref="char:EOLhyphen"/>neſs to Light, and from the power of Satan, to the Power of God; who freely miniſter unto others, without coveting any mans Gold, or Silver, or Apparel, not ſeeking theirs, but them; warning every man, and teaching every man in all wiſ<g ref="char:EOLhyphen"/>dom, that they may preſent every man perfect in Chriſt Je<g ref="char:EOLhyphen"/>ſus. Such as miniſter from the Spirit, and have the Word of God abiding in them, who are never unprovided, but at all times and ſeaſons, and in all places, do ſpeak and declare the truth as they are moved and inſtructed, and as the Spirit of Truth doth give them utterance: Such Miniſters we own, and have in great eſteem for their Works ſake, <hi>Gal.</hi> 1.1.12.
+<pb n="10" facs="tcp:192218:7" rendition="simple:additions"/>
+               <hi>Joh.</hi> 15.3. <hi>Eph.</hi> 4.7, 8, 11, 12, 13. <hi>Act.</hi> 26.15, 16, 17, 18. <hi>Mat.</hi> 10.8. <hi>Act.</hi> 20.33. 2 <hi>Cor.</hi> 12.14. <hi>Col.</hi> 1.27, 28, 29. 2 <hi>Cor.</hi> 3.6. <hi>Joh.</hi> 15.3, 4, 5, 6, 7. <hi>Joh.</hi> 4.10, 14. <hi>&amp;</hi> 7.38, 39. 2 <hi>Tim.</hi> 4.2, 3. <hi>Act.</hi> 2.4.</p>
+            <p>But ſuch as are brought up at Schools and Colledges, and ſo made Miniſters by the will of man, who have not freely receiv<g ref="char:EOLhyphen"/>ed perfect gifts from God for perfecting of the Saints, but de<g ref="char:EOLhyphen"/>nies perfection, and ſo denies the Miniſters work; neither do Miniſter freely, but ſeek for gain from their quarters, and will not preach without a price, who are not Sanctified by the Word of God, but pleads for a continuance in ſin, while peo<g ref="char:EOLhyphen"/>ple walk upon the Earth. Such as miniſter from the <hi>Letter,</hi> and not from the <hi>Spirit,</hi> who cannot Preach except they have a time to ſtudy, and ſo by their induſtry provide themſelves, and are not provided of the Lord (ſuch a Miniſtry is of works, and not the free gift from God) ſuch cannot profit people, but leads them captive in an empty and dead form, alwaies lear<g ref="char:EOLhyphen"/>ning, but never able to come to the true knowledge of God; ſuch called Miniſters we do deny, and turn from them, and teſtify againſt them, as the holy men of God formerly did, read <hi>Iſa.</hi> 56.10, 11. <hi>Jer.</hi> 5.30, 31. <hi>Mica.</hi> 3.11. 1 <hi>Cor.</hi> 1.19, 20, 26, 27, 28, 29. <hi>&amp; chap.</hi> 2.10, 11. <hi>Jer.</hi> 23.22, 30, 31, 32. <hi>Iſa.</hi> 56.10, 11. <hi>Phil.</hi> 3.18, 19. <hi>Jude</hi> 11. <hi>Joh.</hi> 8.24. 1 <hi>Joh.</hi> 3.8. <hi>Jer.</hi> 23.15, 16, 17. 2 <hi>Tim.</hi> 3.1, 2, 3, 4, 5, 6, 7, 8. <hi>Ezek.</hi> 34. chap. <hi>Hoſ.</hi> 6.9. <hi>Mat.</hi> 23. chap. 1 <hi>Tim.</hi> 5.6, 10, 11. 2 <hi>Tim.</hi> 3. chap. 2 <hi>Pet.</hi> 2. <hi>Jude</hi> 11.</p>
+            <p n="2">2. Such Magiſtrates who Rule for God, who be men of Truth, fearing God and hating covetouſneſs, who execute true Juſtice and Judgment in the earth without partiality, not re<g ref="char:EOLhyphen"/>ſpecting the perſons of the rich, nor deſpiſing the perſons of the poor, but in truth and equity giving to every one his due and proportion according to the Law of Equity, who neither ſeek nor receive honour from men, but ſeeks the honour that comes from God only, who are a terror to evil doers, and a praiſe to them that do well; ſuch Magiſtrates we own, and in the Lord honour, <hi>Exod.</hi> 18.21. <hi>Deut.</hi> 16.18, 19, 20. <hi>Joh.</hi> 3.41, 44. <hi>Rom.</hi> 13.3, 4.</p>
+            <p>But ſuch Magiſtrates who be Proud and Lofty, who Rule not for God, but for themſelves; who love the praiſe of Men,
+<pb n="11" facs="tcp:192218:7"/>
+and Judge for gifts and reward, and love Mony which is the Root of all evil, who reſpect the Rich in their gay cloathing, above the Poor in vile rayment, who ſeek and receive honour from men (and if they be not honoured with that which they ſeek for, turns Judgment backward, that Equity cannot enter) ſuch as be wrathful and malicious cannot Rule for God, ſuch are encouragers of vice and wickedneſs, and turns their ſword backward againſt the upright and Innocent, who reproves ſin in the gate; ſuch Magiſtrates we do deny and teſtify againſt; for when the wicked bears Rule, the righteous mourns, and the evil doers rejoyce over them, and mock and reproach them, <hi>Iſa.</hi> 2.11, 12, <hi>&amp;c. Iſa.</hi> 1.21, 23. <hi>Joh.</hi> 6.43. <hi>Mica.</hi> 3.11. <hi>Jam.</hi> 2.1, 2, 3, 4, 9. <hi>Joh.</hi> 5.44. <hi>Iſa.</hi> 59.13, 14, 15. <hi>Iſa.</hi> 29.21 <hi>Prov.</hi> 29.2.</p>
+            <p>Such as live in Pride and Pleaſure, and follow ungodly Luſts, and wicked Practiſes, denies God, though in words they may profeſs him, even ſo, all ſuch as do evil, who follow drunken<g ref="char:EOLhyphen"/>neſs, oaths, games, vain ſports and pleaſures, and ſuch like ungodly actions, do deny, and diſgrace, and greatly diſhonour both Miniſters and Magiſtrates, though in words they may own them, and bow the hat and knee, and give flattering Ti<g ref="char:EOLhyphen"/>tles to them, <hi>Tit.</hi> 1.16. <hi>Pſal.</hi> 15. <hi>Hoſ.</hi> 4. <hi>Jam.</hi> 1.25. <hi>Job.</hi> 32.21, 22.</p>
+            <p>To walk Soberly, Righteouſly, and doing juſtly, according as the grace of God which brings Salvation doth teach and direct, is a ſweet ſavour to the Lord, and a true owning, and in the Lord honouring true Miniſters and Magiſtrates, <hi>Mica.</hi> 6.8. <hi>Tit.</hi> 2.11, 12. <hi>Pſal.</hi> 51.17. <hi>Iſa.</hi> 57.15. <hi>Rom.</hi> 13.3.</p>
+            <p>But to walk looſely and prophanely, doing wicked and un<g ref="char:EOLhyphen"/>juſt actions, turning the grace of God into wantonneſs; ſuch are an ill ſavour to God, and denies, and diſhonours true Miniſters and Magiſtrates, <hi>Jam.</hi> 3.14, 15, 16. <hi>Jude</hi> 4. <hi>Iſa.</hi> 59.2, 3, <hi>&amp;c.</hi>
+            </p>
+            <p>True honour doth not conſiſt in bowing the hat and knee, and ſuch like things, (for that is the honour below, which men ſeek and receive one of another, which is in the unbelief) but in the obedience of the Magiſtrates juſt commands, who are a terrour to wickedneſs, but a praiſe to them that do well; for the Law was not made for the Righteous, who fear God
+<pb n="12" facs="tcp:192218:8" rendition="simple:additions"/>
+and live uprightly, but for the Lawleſs, who are out of Gods fear; who live wickedly, caſting the Law of God behind their backs, <hi>Joh.</hi> 5.44. <hi>Rom.</hi> 13.3, 4. 1 <hi>Tim.</hi> 1.8, 9, 10. <hi>Pſal.</hi> 50.16, 17.</p>
+            <p>So this may certify all whom this may come unto, That we do not deny Miniſters nor Magiſtrates who are made and or<g ref="char:EOLhyphen"/>dained by God, but honour them in the Lord, let our lives and converſations and that of God in all your Conſciences judg; for if all were brought into our life, the Magiſtrate ſhould live at peace; and ſo as the eyes of your underſtandings comes to be opened with true light, you will ſee that thoſe who live ſoberly and righteouſly, do own and honour Mini<g ref="char:EOLhyphen"/>ſters and Magiſtrates, though they cannot for conſcience ſake reſpect their perſons, nor give them flattering Titles, as your Highneſs, your Lordſhip, your Worſhip, and ſuch like; for ſuch belongs to God: For (Chriſt Jeſus ſaid) <hi>I receive not honour from man;</hi> And ſaith he, <hi>How can you believe that receive honour one of another, and ſeeks not the honour that comes from God only?</hi> Gal. 1.1.12. <hi>Rom.</hi> 13.1. <hi>Deut.</hi> 16.18, 19. <hi>Joh.</hi> 1.9. <hi>Jam.</hi> 2.1, 2, 3, 4, 9. <hi>Joh.</hi> 5.41, 44.</p>
+            <epigraph>
+               <q>Read with underſtanding, prove all things, hold faſt that which is good, <bibl>
+                     <hi>1 Theſ. 5.21.</hi>
+                  </bibl>
+               </q>
+            </epigraph>
+            <closer>
+               <signed>A. P.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:192218:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
